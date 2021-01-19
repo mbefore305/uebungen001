@@ -13,7 +13,7 @@ public class aufgaben2b {
 		double wert = Double.parseDouble(str);
 		
 		System.out.println("Zahl: " + wert + "   Reziproke Zahl: " + 1.0/wert  );	
-				
+				 
 	}
 
 }
